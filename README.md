@@ -91,6 +91,7 @@ pip install pandas as pd
 pip install pickle
 pip install requests
 ```
+Also, we need to paste the ```.pkl``` files to our Folder where this Project is saved.
 ### 3. Functions.
 1. Recommend(): Same as that in the Jupyter notebook, we have just changed the variable names since we have stored our data into different variables and formats.
 2. FetchPoster(): This function uses [TMDb API to fetch Details of a Movie whose movie_id is given](https://developer.themoviedb.org/reference/movie-details). To access this, we need to Sign up on TMDb and [request for an API Key](https://www.themoviedb.org/settings/api).
