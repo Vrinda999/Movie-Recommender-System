@@ -1,7 +1,6 @@
 # Movie-Recommender-System
 Made using Jupyter and PyCharm.
 
-
 ## Jupyter
 ### 1. Installing the necessary Libraries.
 To install jupyter, you need to have Python installed in your device.
@@ -114,6 +113,3 @@ This is how the Streamlit app looks like:
 
 
 https://github.com/Vrinda999/Movie-Recommender-System/assets/98251856/81643e9c-7150-40e0-be81-d11b2530ea14
-
-
-Inspiration taken from: CampusX (youtube).
